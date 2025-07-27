@@ -18,5 +18,6 @@ Areas to work in future :
 2. exit functionality
 3. more features for complex password length up to 8 characters.
 
+Developed By [Linkedin](https://www.linkedin.com/in/rohitmaity/)
 
 
